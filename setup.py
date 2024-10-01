@@ -3,7 +3,7 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(
-  name='math_lib',         # How you named your package folder (MyLib)
+  name='math_lib_sat',         # How you named your package folder (MyLib)
   packages=find_packages(include=["include"]),   # Chose the same as "name"
   version='0.1.0',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository

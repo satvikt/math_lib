@@ -1,4 +1,4 @@
-from math_lib.math_ops import MathOps
+from math_lib_sat.math_ops import MathOps
 
 
 def test_add_op():
